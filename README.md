@@ -19,8 +19,8 @@ There are four different players of the game. Each one uses a different betting 
 This is a command-line program, where different games can be simulated depending on the 
 given arguments in the configuration in the format of seed # - # of rounds
 
-(e.g. 0-1
-      2-3
-      3-5
-      7-100
+(e.g. 0-1, 
+      2-3, 
+      3-5, 
+      7-100, 
       10-1000)
